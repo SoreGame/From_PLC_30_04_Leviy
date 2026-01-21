@@ -1,3 +1,5 @@
+AutoShop
+	1
 PROG
 ROOT
 	FILE	MAIN.LD
